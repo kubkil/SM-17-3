@@ -24,3 +24,5 @@ app.post('/updateNote/:note', (req, res) => {
 });
 
 app.listen(3000);
+
+// zrobione na linux :)
