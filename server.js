@@ -28,3 +28,4 @@ app.listen(3000);
 app.use((req, res, next) => {
   res.status(404).send('Page not found')
 });
+// zrobione na linux :)
